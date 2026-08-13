@@ -21,3 +21,7 @@ make run
 ## Build
 
 `make buca` builds and publishes `docker.io/bborbe/kafka-topic-resend:vX.Y.Z` (git-tag semver).
+
+## License
+
+This project is licensed under the BSD-style license. See the [LICENSE](LICENSE) file for details.
