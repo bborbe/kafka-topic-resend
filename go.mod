@@ -11,7 +11,7 @@ require (
 	github.com/bborbe/log v1.6.24
 	github.com/bborbe/metrics v0.5.14
 	github.com/bborbe/run v1.9.37
-	github.com/bborbe/sentry v1.9.26
+	github.com/bborbe/sentry v1.9.27
 	github.com/bborbe/service v1.10.9
 	github.com/bborbe/time v1.27.10
 	github.com/golang/glog v1.2.5
@@ -25,7 +25,7 @@ require (
 	github.com/bborbe/argument/v2 v2.12.37 // indirect
 	github.com/bborbe/collection v1.20.23 // indirect
 	github.com/bborbe/http v1.26.24 // indirect
-	github.com/bborbe/math v1.4.2 // indirect
+	github.com/bborbe/math v1.4.4 // indirect
 	github.com/bborbe/parse v1.10.21 // indirect
 	github.com/bborbe/validation v1.4.22 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -64,6 +64,4 @@ require (
 	google.golang.org/protobuf v1.36.12 // indirect
 )
 
-exclude (
-	cloud.google.com/go v0.26.0
-)
+exclude cloud.google.com/go v0.26.0
