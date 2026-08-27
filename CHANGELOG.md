@@ -12,6 +12,10 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 
 - chore: update github.com/IBM/sarama to v1.60.2, github.com/bborbe/boltkv to v1.14.10, github.com/bborbe/errors to v1.5.21, github.com/bborbe/log to v1.6.25, github.com/bborbe/metrics to v0.5.15
 
+## v0.2.0
+
+- feat: opt into `autoMerge.trivial` for mechanically-trivial update PRs
+
 ## v0.1.6
 
 - chore: update go module dependencies
