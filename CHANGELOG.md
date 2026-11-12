@@ -8,7 +8,7 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * MINOR version when you add functionality in a backwards compatible manner, and
 * PATCH version when you make backwards compatible bug fixes.
 
-## Unreleased
+## v0.4.1
 
 - chore: update Go to 1.27.4 and github.com/bborbe/boltkv to v1.16.8, github.com/bborbe/errors to v1.6.6, github.com/bborbe/kafka to v1.29.14, github.com/bborbe/kv to v1.21.29, github.com/bborbe/log to v1.7.9, github.com/bborbe/metrics to v0.6.12, github.com/bborbe/run to v1.11.11, github.com/bborbe/sentry to v1.10.7, github.com/bborbe/service to v1.11.3, github.com/bborbe/time to v1.27.28, github.com/onsi/ginkgo/v2 to v2.34.0
 
